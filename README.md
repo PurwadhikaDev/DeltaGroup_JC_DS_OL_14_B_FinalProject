@@ -76,7 +76,7 @@ Berdasarkan konsekuensinya, **kerugian sebesar biaya kamar (FN) > kerugian sebes
 
 Raw data yang akan dilakukan cleaning:
 
-https://github.com/zanputra/FinProDelta/blob/main/hotel_bookings.csv
+https://github.com/PurwadhikaDev/DeltaGroup_JC_DS_OL_14_B_FinalProject/blob/main/hotel_bookings.csv
 
 Dataset ini terdiri dari **32 kolom** dan **119390 baris** yang setiap barisnya menjelaskan tentang karakteristik pemesan kamar hotel. Pada dataset terdapat satu kolom target atau label `is_canceled` yang menjelaskan apakah pemesan kamar membatalkan pesanannya atau tidak membatalkan pesanannya.
 
@@ -219,8 +219,7 @@ https://public.tableau.com/app/profile/iqbal.latief/viz/shared/NS9DK2DKZ
 Seluruh fitur kategorik akan digunakan dalam tahapan pembuatan model.
 
 Dataset yang telah dilakukan cleaning dan digunakan untuk pembuatan model prediksi adalah:
-https://github.com/zanputra/FinProDelta/blob/main/mainData.csv
-https://github.com/zanputra/FinProDelta/blob/main/mainData.xlsx
+https://github.com/PurwadhikaDev/DeltaGroup_JC_DS_OL_14_B_FinalProject/blob/main/mainData.csv
 
 ---
 
@@ -285,7 +284,7 @@ https://github.com/zanputra/FinProDelta/blob/main/best_model.pkl
 ---
 
 Kesimpulan dan rekomendasi yang diberikan adalah berdasarkan hasil temuan EDA dan pembuatan model prediksi. Untuk proses pengerjaan secara end-to-end dapat dilihat pada:
-https://github.com/zanputra/FinProDelta/blob/main/FINPRO_Delta_Team%20FINAL.ipynb
+https://github.com/PurwadhikaDev/DeltaGroup_JC_DS_OL_14_B_FinalProject/blob/main/FINPRO_Delta_Team%20FINAL.ipynb
 
 ---
 
