@@ -275,8 +275,7 @@ Pada tahap ini kita akan mencoba untuk menerapkan hasil prediksi kita ke data ya
 ## Save Model
 ---
 Model terpilih yang telah disimpan:
-https://github.com/zanputra/FinProDelta/blob/main/best_model.pkl
-
+https://github.com/PurwadhikaDev/DeltaGroup_JC_DS_OL_14_B_FinalProject/blob/main/best_model_compressed.pkl
 ---
 
 # **Conclusion & Recommendation**
